@@ -1,0 +1,8 @@
+{
+  "playlist": "My Playlist #7",
+  "tracks": [
+    {"title": "Bohemian Rhapsody", "artist": "Queen"},
+    {"title": "Für Elise", "artist": "Ludwig van Beethoven"},
+    {"title": "Despacito", "artist": "Luis Fonsi"}
+  ]
+}
